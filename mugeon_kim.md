@@ -8,10 +8,10 @@
 
 ## Education
 
-- **Gyeonggi Science High School** (2017.3 ~ 2020.2)
-
 - **Seoul National University** (2020.3 ~ 2022.2 / 2024.9 ~) \
   Major in Mathematics & Minor in Computer Science
+
+- **Gyeonggi Science High School** (2017.3 ~ 2020.2)
 
 ## Work
 
@@ -27,7 +27,7 @@
 - C/C++ (PS)
 - C# (.NET, WinForm)
 - Ruby (Ruby on Rails)
-- Python (PS, PyQT(Desktop Application Builder), Basic machine learning)
+- Python (PS, PyQT (Desktop Application Builder), Basic machine learning)
 - Typescript (Node.js - React, Next.js)
 - Matlab
 - SQL
@@ -39,7 +39,7 @@
 - Vim
 - GitHub
 - Slack, Swit
-- Google Workspace (Docs, SpreadSheet(+Apps Script), Drive, ...)
+- Google Workspace (Docs, SpreadSheet (+Apps Script), Drive, ...)
 - AWS EC2, RDS, S3, Lightsail
 
 ## Projects
@@ -49,34 +49,41 @@
   - Using Python, OpenAI Whisper (ASR model) API
   - Extracting transcript as .txt and .srt file from multiple video files
 
-- Online coding learning space (https://supercoding.net/)
+- [Online coding learning service](https://supercoding.net/)
 
-  - Using Typescript, React, MSSQL
-  - Implementing on-the-job experience with gamification
-  - User/Lecture/Content management system
+  - Using C# (.NET), Typescript (React), MSSQL
+  - Implementing on-the-job experience based code learning service with gamification
+  - Includes User/Lecture/Content management system
 
 ## Research
-
-- Circular Tuned Liquid Damper with Viscoelastic Fluids (2017)
-
-  - Advisor: Jeong Hyeon Oh, Gyeonggi Science High School
-
-- Frobenius Number of Extended Geometric Sequence (2018)
-
-  - Advisor: Suk Moon Heo, SKKU
-
-- Frobenius Number of Extended Geometric Sequence - about $g_k(a,b,c-ta)$ (2018)
-
-  - Advisor: Suk Moon Heo, SKKU
 
 - Developing AI-powered e-learning platform with workbook web standardization and content recommendation (2023 ~ 2024)
 
   - SME Technology Development Support Program
   - While working on Privatenote, Inc. as R&D Leader
 
+- Frobenius Number of Extended Geometric Sequence - about $g_k(a,b,c-ta)$ (2019)
+
+  - Advisor: Suk Moon Heo, SKKU
+
+- Frobenius Number of Extended Geometric Sequence (2018)
+
+  - Advisor: Suk Moon Heo, SKKU
+
+- Circular Tuned Liquid Damper (CTLD) with Viscoelastic Fluids (2017)
+
+  - Advisor: Jeong Hyeon Oh, Gyeonggi Science High School
+
 ## Honors and Awards
 
-- **28<sup>th</sup> place**, 2021 Simon Marais Mathematics Competition (East Division, Indiviual) (2021)
+- **28<sup>th</sup> place**, 2021 Simon Marais Mathematics Competition (East Division, Individual) (2021)
+
 - **Gold Medal**, 39<sup>th</sup> Undergraduate Mathematical Olympiad (2020)
+
 - **Gold Medal**, 33<sup>rd</sup> Korea Math Olympiad (2019)
+
 - **Gold Medal**, 30<sup>th</sup> Korea Junior Math Olympiad (2016)
+
+---
+
+Last update : Sep 25, 2024
