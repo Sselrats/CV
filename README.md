@@ -3,8 +3,8 @@
 ## Contact
 
 - Phone: (+82) 010-2759-3728
-- Email: arthur.mgkim@snu.ac.kr
-- GitHub: https://github.com/Sselrats
+- Email: <arthur.mgkim@snu.ac.kr>
+- GitHub: <https://github.com/Sselrats>
 
 ## Education
 
@@ -42,12 +42,9 @@
 - Google Workspace (Docs, SpreadSheet (+Apps Script), Drive, ...)
 - AWS EC2, RDS, S3, Lightsail
 
+<div style="page-break-after: always;"></div>
+
 ## Projects
-
-- Auto Transcript Extractor for Adobe Premiere Pro
-
-  - Using Python, OpenAI Whisper (ASR model) API
-  - Extracting transcript as .txt and .srt file from multiple video files
 
 - [Online coding learning service](https://supercoding.net/)
 
@@ -64,11 +61,11 @@
 
 - Frobenius Number of Extended Geometric Sequence - about $g_k(a,b,c-ta)$ (2019)
 
-  - Advisor: Suk Moon Heo, SKKU
+  - Advisor: Suk Moon Huh, SKKU
 
 - Frobenius Number of Extended Geometric Sequence (2018)
 
-  - Advisor: Suk Moon Heo, SKKU
+  - Advisor: Suk Moon Huh, SKKU
 
 - Circular Tuned Liquid Damper (CTLD) with Viscoelastic Fluids (2017)
 
@@ -86,4 +83,7 @@
 
 ---
 
-Last update : Sep 25, 2024
+Last update : Sep 28, 2024
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });</script>
