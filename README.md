@@ -75,12 +75,12 @@
 
 - **28<sup>th</sup> place**, 2021 Simon Marais Mathematics Competition (East Division, Individual) (2021)
 
-- **Gold Medal**, 39<sup>th</sup> Undergraduate Mathematical Olympiad (2020)
+- **Gold Prize**, 39<sup>th</sup> Undergraduate Mathematical Olympiad (2020)
 
-- **Gold Medal**, 33<sup>rd</sup> Korea Math Olympiad (2019)
+- **Gold Prize**, 33<sup>rd</sup> Korea Math Olympiad (2019)
 
-- **Gold Medal**, 30<sup>th</sup> Korea Junior Math Olympiad (2016)
+- **Gold Prize**, 30<sup>th</sup> Korea Junior Math Olympiad (2016)
 
 ---
 
-Last update : Sep 28, 2024
+Last update : Oct 1, 2024
