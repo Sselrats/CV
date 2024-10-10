@@ -77,7 +77,7 @@
 
 - **Gold Prize**, 39<sup>th</sup> Undergraduate Mathematical Olympiad (2020)
 
-- **Gold Prize**, 33<sup>rd</sup> Korea Math Olympiad (2019)
+- **Gold Prize**, 32<sup>nd</sup> Korea Math Olympiad (2018)
 
 - **Gold Prize**, 30<sup>th</sup> Korea Junior Math Olympiad (2016)
 
